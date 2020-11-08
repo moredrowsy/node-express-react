@@ -1,5 +1,5 @@
 const express = require('express');
-const corsMiddleware = require('corsMiddleware');
+const corsMiddleware = require('../middlewares/corsMiddleware');
 
 const router = express.Router();
 
