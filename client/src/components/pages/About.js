@@ -4,7 +4,7 @@ const About = (props) => {
   return (
     <div>
       <h2>{props.title}</h2>
-      <p>Node, Express, and React Template with Typescript</p>
+      <p>Node, Express, and React Template</p>
     </div>
   );
 };

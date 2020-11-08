@@ -21,7 +21,7 @@ function App() {
 
         <Switch>
           <Route path='/' exact>
-            <Home title='React Typescript Template' />
+            <Home title='React Template' />
           </Route>
           <Route path='/about' exact>
             <About title='About' />

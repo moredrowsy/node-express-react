@@ -5,7 +5,7 @@ const Home = (props) => {
     <div>
       <h2>{props.title}</h2>
       <p>
-        Edit <code>src/App.tsx</code> and save to reload.
+        Edit <code>src/App.js</code> and save to reload.
       </p>
       <a
         className='App-link'
